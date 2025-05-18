@@ -1,0 +1,50 @@
+h1{
+    background-color: pink;
+    text-align: center;
+    padding: 15px;
+}
+
+.s{
+    background-color: plum;
+    text-decoration: dashed;
+    border-radius: 999px;
+    margin: 50px;
+    padding: 20px;
+}
+.brasleti{
+    display: flex;
+}
+p{
+    text-align: center;
+    color: blue; 
+}
+.pofig{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    background-color: pink;
+    border: double;
+}
+h2{
+    text-align: center;
+}
+.takji{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    background-color: plum;
+    border: double;
+}
+.cop{
+    display: flex;
+}
+footer{
+    background-color: pink;
+    border: 2px solid;
+}
+nav{
+    margin: 40px;
+}
+
